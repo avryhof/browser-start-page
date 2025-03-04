@@ -3,7 +3,7 @@
 - [LinkedIn](https://www.linkedin.com/)
 - [Google News](https://news.google.com/)
 - [Hacker News](https://news.ycombinator.com/)
-- [FireFox Start](https://firefox.vryhof.net)
+- [FireFox Start](https://firefox.vryhof.net/start/)
 
 ### Work
 - [ProactRx](https://secure.proactrx.com/)
